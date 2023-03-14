@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "57257550462",
+    "project_id": "minimovieapp-2d880",
+    "storage_bucket": "minimovieapp-2d880.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57257550462:android:9e97be6e297b1ab8336e2f",
+        "android_client_info": {
+          "package_name": "com.mycompany.amishaminiproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57257550462-ld4a3h90k3mft78olvnd3eb0hl91qv9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.amishaminiproject",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "57257550462-19rm6t90tfufu1qot8eau9706hf7ej19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyqM1r-IbwMC5f9cKjs-e0j-PfRzw_kdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57257550462-19rm6t90tfufu1qot8eau9706hf7ej19.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "57257550462-3cic2vq7pcdv0jjpkcrb86ki4td82vhp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.amishaminiproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57257550462:android:21f80d38a942cc9a336e2f",
+        "android_client_info": {
+          "package_name": "com.mycompany.miniproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57257550462-19rm6t90tfufu1qot8eau9706hf7ej19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyqM1r-IbwMC5f9cKjs-e0j-PfRzw_kdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57257550462-19rm6t90tfufu1qot8eau9706hf7ej19.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "57257550462-3cic2vq7pcdv0jjpkcrb86ki4td82vhp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.amishaminiproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
